@@ -2,6 +2,7 @@ import streamlit as st
 import openai
 from PIL import Image
 
+
 # Configurar página
 st.set_page_config(page_title="Chatbot Colombiano", page_icon="🇨🇴")
 
